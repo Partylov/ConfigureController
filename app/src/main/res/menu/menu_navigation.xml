@@ -4,5 +4,16 @@
         android:orderInCategory="1"
         android:title="@string/personalInformation_title"
         android:icon="@drawable/account_settings_variant"
+        android:id="@+id/account"
     />
+    <item
+        android:orderInCategory="1"
+        android:title="@string/linkParam_title"
+        android:icon="@drawable/access_point"
+        />
+    <item
+        android:orderInCategory="1"
+        android:title="@string/limits_title"
+        android:icon="@drawable/poll"
+        />
 </menu>

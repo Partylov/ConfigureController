@@ -2,4 +2,11 @@
     <string name="app_name">ConfigureController Beta</string>
     <string name="search_title">Search</string>
     <string name="personalInformation_title">Личные данные</string>
+    <string name="linkParam_title">Параметры Связи</string>
+    <string name="limits_title">Контролируемые параметры</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+
 </resources>
